@@ -1,0 +1,19 @@
+{
+  "name": "imdb-du-pauvre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd client && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorentParis/IMDB-du-Pauvre.git"
+  },
+  "author": "FlorentParis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlorentParis/IMDB-du-Pauvre/issues"
+  },
+  "homepage": "https://github.com/FlorentParis/IMDB-du-Pauvre#readme"
+}
