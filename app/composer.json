@@ -1,0 +1,17 @@
+{
+    "name": "florent-paris/app",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Florent Paris",
+            "email": "florentparis28@gmail.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^6.2"
+    }
+}
